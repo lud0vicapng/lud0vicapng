@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi! I'm Ludovica and I'm a 22 year old Cloud DevOps Engineer<br>💻 I've started my journey in Information Technology as a Java Full Stack Developer<br><br>I am especially interested in:<br>⚙️ DevOps Methodology<br>☁️ Cloud Infrastructures<br>👾 Cybersecurity<br>🧬 Machine Learning and Deep Learning<br>🤖 Generative AI
+🔭 Hi! I'm Ludovica and I'm a 22 years old Cloud DevOps Engineer<br>💻 I've started my journey in Information Technology as a Java Full Stack Developer<br><br>I am especially interested in:<br>⚙️ DevOps Methodology<br>☁️ Cloud Infrastructures<br>👾 Cybersecurity<br>🧬 Machine Learning and Deep Learning<br>🤖 Generative AI
 
 
 # 💻 Tech Stack:
