@@ -11,7 +11,7 @@ I work on cloud infrastructure and automation, from CI/CD pipelines and Kubernet
 <br>
 
 - 🔧 Currently working as a **Site Reliability Engineer**
-- 📚 Currently learning about **Observability, AI & Machine Learning**
+- 📚 Learning about **Observability, AI & Machine Learning**
 - 🌐 Portfolio: [lud0vicapng.github.io](https://lud0vicapng.github.io)
 - ⚡ Fun fact: I've begun my journey in Information Technology as a Java Developer
 - 💡 Fav Quote: "Stay hungry. Stay foolish." — Steve Jobs 
