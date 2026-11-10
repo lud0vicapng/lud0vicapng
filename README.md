@@ -4,7 +4,9 @@
 
 **Cloud · DevOps · Automation · Security**
 
-Driven by curiosity, continuous improvement, and a genuine love for building things that work seamlessly. I design and operate cloud-native infrastructure at scale, spanning CI/CD pipelines, Kubernetes clusters, Ansible workflows, and Terraform modules with a sharp focus on reliability, observability, and the complexity of distributed systems.
+Driven by curiosity, continuous improvement, and a genuine love for building things that work seamlessly.
+
+I design and operate cloud-native infrastructure at scale, spanning CI/CD pipelines, Kubernetes clusters, Ansible workflows, and Terraform modules with a sharp focus on reliability, observability, and the complexity of distributed systems.
 
 <br>
 
